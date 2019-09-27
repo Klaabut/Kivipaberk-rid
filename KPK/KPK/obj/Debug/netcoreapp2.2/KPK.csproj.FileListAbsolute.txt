@@ -1,0 +1,11 @@
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\bin\Debug\netcoreapp2.2\KPK.deps.json
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\bin\Debug\netcoreapp2.2\KPK.runtimeconfig.json
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\bin\Debug\netcoreapp2.2\KPK.runtimeconfig.dev.json
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\bin\Debug\netcoreapp2.2\KPK.dll
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\bin\Debug\netcoreapp2.2\KPK.pdb
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\obj\Debug\netcoreapp2.2\KPK.csprojAssemblyReference.cache
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\obj\Debug\netcoreapp2.2\KPK.csproj.CoreCompileInputs.cache
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\obj\Debug\netcoreapp2.2\KPK.AssemblyInfoInputs.cache
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\obj\Debug\netcoreapp2.2\KPK.AssemblyInfo.cs
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\obj\Debug\netcoreapp2.2\KPK.dll
+C:\Users\karlp\Desktop\VS\Kivipaberkäärid\KPK\KPK\obj\Debug\netcoreapp2.2\KPK.pdb
